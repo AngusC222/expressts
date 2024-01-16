@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+      "outDir": "js",
+      "moduleResolution": "node",
+      "target": "ES2022"
+    },
+}
